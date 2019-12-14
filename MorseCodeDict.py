@@ -1,4 +1,4 @@
-MorseCodeDict = {
+MorseCode = {
     'A' : ".-",
     'B' : "-...",
     'C' : "-.-.",
